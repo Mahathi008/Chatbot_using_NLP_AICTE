@@ -13,6 +13,6 @@ This project is a chatbot built using **Natural Language Processing (NLP)** and 
 - Conversation history logging in CSV format
 
 # Project Structure
-  #Installed dependencies
- # Run the chatbot using the command
+ Installed dependencies
+ Run the chatbot using the command
    #streamlit run chatbot.py
